@@ -1,4 +1,4 @@
-# Repository Quick Start template
+# Repository template
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
